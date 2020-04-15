@@ -1,5 +1,4 @@
-package Theatres;
-
+package main;
 import java.util.Scanner;
 
 //This class represents one admission 

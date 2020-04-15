@@ -1,4 +1,4 @@
-package Theatres;
+package main;
 
 public class food {
 	
